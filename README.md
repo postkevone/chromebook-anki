@@ -1,5 +1,5 @@
 # chromebook-anki
-Install the latest version of Anki on arm64 Chromebooks (Tested on Lenovo Duet)
+Install the latest version of Anki on arm64 Chromebooks (Tested on Lenovo Duet with Anki 2.1.54)
 
 
 ```
@@ -23,6 +23,15 @@ anki
 ```
 
 In case the wget link stops working you can get the wheel files from the release section
+
+
+To update Anki in the future just use
+
+
+```
+pip install --upgrade anki
+pip install --upgrade aqt
+```
 
 
 # Credit
