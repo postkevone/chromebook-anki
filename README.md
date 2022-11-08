@@ -19,6 +19,11 @@ sudo mv chromebook-anki/anki.png /usr/share/pixmaps/anki.png
 sudo rm -r chromebook-anki
 ```
 
+In `anki.desktop` you can also set a custom folder
+```
+Exec=anki -b /mnt/chromeos/MyFiles/Anki2
+```
+
 
 To update Anki in the future just use
 
