@@ -17,7 +17,6 @@ sudo pip install --upgrade aqt
 sudo mv chromebook-anki/anki.desktop /usr/share/applications/anki.desktop
 sudo mv chromebook-anki/anki.png /usr/share/pixmaps/anki.png
 sudo rm -r chromebook-anki
-anki
 ```
 
 
